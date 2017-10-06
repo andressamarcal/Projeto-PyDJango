@@ -1,2 +1,3 @@
 # Projeto Welcome to the Django
-> Aprendendo Django
+> Repositorio criado para melhorar habilidades com django
+
